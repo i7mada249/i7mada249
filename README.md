@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Frontend developer & UI/UX designer</p>
+<p align="left">Frontend developer & UI/UX designer</p>
 
 ###
 
