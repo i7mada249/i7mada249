@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/i7mada249/i7mada249/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/i7mada249/i7mada249/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 
 ###
 
