@@ -31,50 +31,6 @@ Computer Engineering student<br>web developer & UI designer
 ---
 [![](https://visitcount.itsvg.in/api?id=i7mada249&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-
-![Snake animation](https://github.com/i7mada249/i7mada249/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/7mada249/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/7mada249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://dribbble.com/7mada249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="47" height="35" alt="dribbble logo"  />
-  </a>
-  <a href="https://t.me/i7mada249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://twitter.com/7mada249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/+249906362918" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.behance.net/7mada249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo"  />
-  </a>
-</div>
-
 ###
 
 <a href="https://stardev.io/developers/i7mada249"><img alt="Check out i7mada249's profile on stardev.io" src="https://stardev.io/developers/i7mada249/badge/languages/global.svg" /></a>
